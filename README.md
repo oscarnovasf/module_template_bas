@@ -11,7 +11,7 @@ module_template
 
 ## Información
 Este módulo es una plantilla básica a partir de la cual comenzar nuestros
-nuevos módulos.  
+nuevos módulos.
 Este módulo está pensado para ser usado con un script de instalación, el cual no
 se incluye pero se podrá encontrar en un futuro en otro de mis repositorios.
 
@@ -19,20 +19,19 @@ se incluye pero se podrá encontrar en un futuro en otro de mis repositorios.
 
 ## Requisitos
 * Se necesita una versión de git superior a la 2.0.
-* Script para iniciar proyectos (no incluido)
 
 ---
 
 ## Instalación
-* No es necesario instalar nada si se usa el script de iniciar-proyecto.
+* No es necesario instalar nada si se usa el script de [iniciar-proyecto](https://github.com/oscarnovasf/iniciar-proyecto).
 
 ---
 ⌨️ con ❤️ por [Óscar Novás][mi-web] 😊
 
 [mi-web]: https://oscarnovas.com "for developers"
 
-[version]: v1.0.0
-[version-badge]: https://img.shields.io/badge/Versión-1.0.0-blue.svg
+[version]: v1.0.1
+[version-badge]: https://img.shields.io/badge/Versión-1.0.1-blue.svg
 
 [license]: LICENSE.md
 [license-badge]: https://img.shields.io/badge/Licencia-GPLv3+-green.svg "Leer la licencia"
