@@ -16,10 +16,3 @@ global_libraries:
 ################################################################################
 # LIBRERÍAS                                                                    #
 ################################################################################
-
-# Para la visualización de Readme, License y Changelog.
-markdown:
-  version: VERSION
-  css:
-    theme:
-      css/markdown.css: {}

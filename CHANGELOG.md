@@ -6,6 +6,17 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
   > Ver TODO.md
 
 ---
+* ## [v1.0.3] - 2025-05-02
+  > Mejoras.
+
+  * #### Cambios:
+    - Añadida compatibilidad para D11.
+
+  * ### Eliminados:
+    - Carpetas de documentación.
+    - Hook Help y sus dependencias.
+
+---
 * ## [v1.0.2] - 2023-09-17
   > Mejoras.
 

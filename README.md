@@ -5,7 +5,8 @@ module_template
 [![version][version-badge]][changelog]
 [![Licencia][license-badge]][license]
 [![Código de conducta][conduct-badge]][conduct]
-[![Donate][donate-badge]][donate-url]
+
+[![Donate][donate-badge]][donate-url] <img src="https://img.shields.io/liberapay/patrons/ONovasDev.svg?logo=liberapay">
 
 ---
 
@@ -23,15 +24,15 @@ se incluye pero se podrá encontrar en un futuro en otro de mis repositorios.
 ---
 
 ## Instalación
-* No es necesario instalar nada si se usa el script de [iniciar-proyecto](https://github.com/oscarnovasf/iniciar-proyecto).
+* Se recomienda el uso del script [iniciar-proyecto](https://github.com/oscarnovasf/iniciar-proyecto).
 
 ---
 ⌨️ con ❤️ por [Óscar Novás][mi-web] 😊
 
 [mi-web]: https://oscarnovas.com "for developers"
 
-[version]: v1.0.2
-[version-badge]: https://img.shields.io/badge/Versión-1.0.2-blue.svg
+[version]: v1.0.3
+[version-badge]: https://img.shields.io/badge/Versión-1.0.3-blue.svg
 
 [license]: LICENSE.md
 [license-badge]: https://img.shields.io/badge/Licencia-GPLv3+-green.svg "Leer la licencia"
